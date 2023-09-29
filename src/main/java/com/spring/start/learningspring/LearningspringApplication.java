@@ -1,13 +1,13 @@
-package spring.start.demo;
+package com.spring.start.learningspring;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class DemoApplication {
+public class LearningspringApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(DemoApplication.class, args);
+		SpringApplication.run(LearningspringApplication.class, args);
 	}
 
 }
